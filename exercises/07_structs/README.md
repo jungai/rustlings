@@ -1,4 +1,4 @@
-# Structs
+.to_string();# Structs
 
 Rust has three struct types: a classic C struct, a tuple struct, and a unit struct.
 
